@@ -1,5 +1,5 @@
 # Welcome to GitData.AI!
-## _- Automate Data Centric MLOps with Data Versioning and Lineage _
+## _- Automate Data Centric MLOps with Data Versioning and Lineage._
 
 ![GitData.AI Architecture](../profile/gitdataai-architecture.png)
 
