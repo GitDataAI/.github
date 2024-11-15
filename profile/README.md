@@ -8,6 +8,6 @@
 We take the unique composable modular approach to build the entire MLOps platform: 
 1. JZFS / JZDB: Git-like version control filesystem and database for data lineage tracking. 
 2. JZFlow: Parallelized processing of multi-stage, language-agnostic pipelines with data versioning.
-3. JZConsole: Intuitive visualization of directed acyclic graph (DAG) and aids with debugging and reproducibility.
+3. JZLab: Self-hosted MLOps platform with infrastructure orchestration,visualization and interaction.
 
 GitData.AI delivers the ultimate CI/CD/CT engine for MLOps.
