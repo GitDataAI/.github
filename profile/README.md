@@ -1,5 +1,12 @@
 # Welcome to GitData.AI!
-## _- Build and ship AI models on a single, collaborative platform._
+
+## GitData.AI Cloud
+### _- Build, Manage and Share - Fire up your passion and creativity in Data and AI._
+* Global: [https://gitdata.ai](https://gitdata.ai)
+* China: [https://gitdata.cn](https://gitdata.cn)
+
+## GitData.AI Enterprise 
+### _- Build and ship AI Models on a single, collaborative platform._
 
 ![GitData.AI Architecture](../profile/gitdata-stack.png)
 
