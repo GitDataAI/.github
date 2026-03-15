@@ -2,7 +2,7 @@
 
 **The Operating System for Human + Agent Collaborative Engineering**
 
-GitData.AI is the next-generation platform that fuses the real-time, mixed-human-and-agent collaboration of Discord with the rock-solid engineering discipline of GitHub — purpose-built for the Agentic AI era.
+GitData.AI is the next-generation platform that fuses the real-time, mixed-human-and-agent collaboration of Chat with the rock-solid engineering discipline of GitHub — purpose-built for the Agentic AI era.
 
 ---
 
@@ -63,7 +63,7 @@ Because the old way doesn’t work anymore.
 Traditional tools force you to scatter context across Slack, Notion, GitHub, vector stores, and ad-hoc agent frameworks.  
 GitData.AI puts **everything** — conversation, intent, execution, memory, governance, and reusable skills — inside one governed, versioned, self-improving boundary.
 
-It is the Git + Discord fusion the Agentic AI era has been waiting for.
+It is the Git + Chat fusion the Agentic AI era has been waiting for.
 
 ---
 
